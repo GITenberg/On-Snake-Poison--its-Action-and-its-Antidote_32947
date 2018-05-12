@@ -1,0 +1,29 @@
+_repo: On-Snake-Poison--its-Action-and-its-Antidote_32947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mueller, A.
+    gutenberg_agent_id: '36122'
+    url: http://www.gutenberg.org/2009/agents/36122
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Reptiles and Amphibians
+- Animal
+gutenberg_issued: '2010-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poisonous snakes -- Venom -- Physiological effect'
+- !lcsh 'Strychnine'
+- !lcc 'RA'
+- !lcsh 'Antidotes'
+title: 'On Snake-Poison: Its Action and Its Antidote'
+url: http://www.gutenberg.org/ebooks/32947
