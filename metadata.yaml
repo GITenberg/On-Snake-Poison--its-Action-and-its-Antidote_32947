@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36122'
     url: http://www.gutenberg.org/2009/agents/36122
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32947#On-Snake-Poison--its-Action-and-its-Antidote
 gutenberg_bookshelf:
 - Animals-Wild-Reptiles and Amphibians
 - Animal
